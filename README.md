@@ -1,5 +1,5 @@
 # find-minimum-flips-to-achieve-target
-Find a proram to find minimum flips required to achive a target binary string. When a digit is flipped, its value and those to the right switches a state between 0 and 1.
+Find a program to find minimum flips required to achieve a target binary string. When a digit is flipped, its value and those to the right switches a state between 0 and 1.
 
 Asked in Morgan Stanley. I was first one to encounter. So i found a solution and posted. Also posted the solution to GeeksForGeeks at below link.
 
